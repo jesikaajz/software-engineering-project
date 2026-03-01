@@ -8,10 +8,6 @@
 [![Status](https://img.shields.io/badge/Academic-Project-orange)]()
 
 Main project developed for the Software Engineering course.
-
-Repository:
-https://github.com/jesikaajz/software-engineering-project
-
 ---------------------------------------------------------------------
 
 ##  DESCRIPTION
