@@ -1,0 +1,1 @@
+dbname=helloINEP user=postgres password=21Espanyol hostaddr=127.0.0.1 port=5432
